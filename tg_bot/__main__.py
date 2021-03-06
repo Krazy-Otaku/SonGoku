@@ -23,7 +23,7 @@ from tg_bot.modules.helper_funcs.alternate import typing_action
 
 PM_START_TEXT = """
 Yo! {}, 𝑚𝑦 𝑛𝑎𝑚𝑒 𝑖𝑠{} ! 
-"I'm a part of @Goku_Support and c an easily manage your groups."
+"I'm a part of @GokuSupport and c an easily manage your groups."
 𝖨 𝖺𝗆 𝖲𝗈𝗇 𝖦𝗈𝗄𝗎! 𝖠 𝗉𝗈𝗐𝖾𝗋𝖿𝗎𝗅 𝗐𝖺𝗋𝗋𝗂𝗈𝗋 𝗐𝗁𝗈 𝗐𝖺𝗇𝗍 𝗍𝗈 𝗍𝗋𝖺𝗂𝗇 𝖺𝗇𝖽 𝗀𝖾𝗍 𝗌𝗍𝗋𝗈𝗇𝗀𝖾𝗋!
 I hᴏᴩᴇ I ᴄᴀn hᴇlᴩ yᴏu ʍᴀnᴀging yᴏur grᴏuᴩ
 Click on the /help button  to get help supported module.
@@ -158,7 +158,7 @@ def start(update, context):
                     [
                         InlineKeyboardButton(
                             text="Support Chat ",
-                            url="https://t.me/Goku_Support"),
+                            url="https://t.me/GokuSupport"),
                         InlineKeyboardButton(
                             text="More about me! ",
                             url="https://t.me/Goku_Updates/69")
